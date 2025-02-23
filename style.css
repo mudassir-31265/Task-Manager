@@ -1,0 +1,22 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.container {
+    max-width: 600px;
+}
+
+.list-group-item {
+    background-color: #222;
+    color: white;
+    border: 1px solid #444;
+}
+
+.list-group-item .btn {
+    margin-left: 10px;
+}
+
+.btn-danger {
+    background-color: #d9534f;
+}
